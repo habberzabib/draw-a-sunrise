@@ -1,0 +1,7 @@
+Animate your sunrise drawing so that the following occurs:
+
+one cloud moves left off of the screen.
+the other cloud moves right off of the screen.
+the sun rises up in the sky.
+the sun gets larger in size.
+the sun changes from red to yellow.
